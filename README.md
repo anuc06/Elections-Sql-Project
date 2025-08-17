@@ -35,6 +35,7 @@ With this project, you can analyze:
 
 ## 📖 Documentation
 Detailed SQL queries and analysis are available here:  
+[📂 Election Results.docx](Election_Results.docx)
 
 ---
 
