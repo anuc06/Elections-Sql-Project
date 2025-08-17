@@ -1,7 +1,7 @@
 # Elections SQL Project
 
 ## 📌 Project Description
-This project is focused on **data analysis of election results** using SQL.  
+This project focuses on **data analysis of election results** using SQL.  
 It covers queries and insights at **constituency-level, party-level, and state-level**.
 
 ---
@@ -34,7 +34,7 @@ With this project, you can analyze:
 ---
 
 ## 📖 Documentation
-Detailed queries and analysis are available in **Election Results.docx**.  
+Detailed SQL queries and analysis are available here:  
 
 ---
 
